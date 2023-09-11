@@ -11927,11 +11927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectUniqueName": "E:\\dotnet\\Rsetaurant Application\\RestaurantAPI\\RestaurantAPI.csproj",
       "projectName": "RestaurantAPI",
-      "projectPath": "E:\\dotnet\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectPath": "E:\\dotnet\\Rsetaurant Application\\RestaurantAPI\\RestaurantAPI.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet\\RestaurantAPI\\obj\\",
+      "outputPath": "E:\\dotnet\\Rsetaurant Application\\RestaurantAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
